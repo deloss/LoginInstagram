@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginInstagram</string>
+    <string name="login_username_hint">Celular, email o nombre de usuario</string>
+    <string name="login_password_hint">Contrasena</string>
+    <string name="login_button">Log In</string>
+    <string name="login_forgot_password">Olvide mi contrasena</string>
+    <string name="facebook_login">Log In con Facebook</string>
+    <string name="login_sign_up">Quiero registrarme</string>
+</resources>
